@@ -1,0 +1,4 @@
+app_key: "this is key"
+log_file_path: "./file.log"
+server_address: "http://localhost:8080/log"
+pattern: "^\\[\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}\\]"
